@@ -24,6 +24,8 @@ This is a collection of sources and visulizations intended to spur discussion ab
 
 This graphic depicts the data sources informing this assessment (there are many others but these are illustrative)
 
+![Assumptions](https://mlabstoragewest.blob.core.windows.net/mlabstorcontainerwest/MapAssumptions.png)
+
 
 
 
