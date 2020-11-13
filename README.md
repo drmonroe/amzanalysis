@@ -8,6 +8,17 @@ Typically missing is a comprehensive analysis of all of the factors contributing
 
 This is a collection of sources and visulizations intended to spur discussion about AMZ as a prominient example of a function of capitalism: the use of public resources for private gain. The foundation of the analysis is a materialist conception of capitalism according to which, our conclusions should be based on observable actions and data and not idealized conceptions such as 'the market'.
 
+# Contents
+
+- House Investigation Report
+- Warehouse Workers Report of Conditions
+- AMZ Employees efforts to highlight abuses
+- Report on AMZ tax avoidance
+- Wardley Map of Dependencies
+- Map of Bezos Testimony
+- Map of Issues to Typical Responses on Twitter
+
+
 # Data Point - The Congressional Report: "Investigation of Competition in Digital Markets"
 Source - https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf
 
