@@ -8,4 +8,17 @@ Typically missing is a comprehensive analysis of all of the factors contributing
 
 This is a collection of sources and visulizations intended to spur discussion about AMZ as a prominient example of a function of capitalism: the use of public resources for private gain. The foundation of the analysis is a materialist conception of capitalism according to which, our conclusions should be based on observable actions and data and not idealized conceptions such as 'the market'.
 
-# 
+# Data Point - The Congressional Report: "Investigation of Competition in Digital Markets"
+Source - https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf
+
+28 October on Twitter - I posted a walkthrough of the sections of the congressional report that focused on monopoly power:
+https://twitter.com/cloudquistador/status/1321410445618696195
+
+# Key Data Points
+The document's section on AMZ (pages 316-330) is focused on the following: 
+* Market Power
+* Merger Activity
+* AWS' competitive significance to other Amz lines of biz
+* Conduct
+
+The Market Power section is introduced as follows and establishes AWS' dominance:
