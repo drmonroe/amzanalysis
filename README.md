@@ -10,13 +10,21 @@ This is a collection of sources and visulizations intended to spur discussion ab
 
 # Contents
 
+- Visualization of data sources
 - House Investigation Report
+- Mapping of AWS Leadership Principles to Bezos Testimony
 - Warehouse Workers Report of Conditions
 - AMZ Employees efforts to highlight abuses
 - Report on AMZ tax avoidance
 - Wardley Map of Dependencies
-- Map of Bezos Testimony
 - Map of Issues to Typical Responses on Twitter
+
+
+# Visualization of data sources
+
+This graphic depicts the data sources informing this assessment (there are many others but these are illustrative)
+
+
 
 
 # Data Point - The Congressional Report: "Investigation of Competition in Digital Markets"
